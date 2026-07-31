@@ -1,8 +1,11 @@
 # 📘 Vibe Coding: O Guia Definitivo do Desenvolvimento via IA
 
-Bem-vindo ao repositório do projeto **Vibe Coding: O Guia Definitivo do Desenvolvimento via IA**, desenvolvido como parte do desafio de projeto da **DIO (Digital Innovation One)** utilizando o **Gemini Notebook** (antigo NotebookLM).
+Bem-vindo ao repositório do projeto **Vibe Coding: O Guia Definitivo do Desenvolvimento via IA**, desenvolvido como parte do desafio de projeto da **DIO (Digital Innovation One)**.
 
-Este repositório documenta um caderno temático completo que explora a revolução do desenvolvimento de software assistido por Inteligência Artificial, detalhando o novo papel do desenvolvedor, fluxos de trabalho modernos, riscos, salvaguardas e ferramentas essenciais em 2026.
+Este repositório documenta um caderno temático completo que explora a revolução do desenvolvimento de software assistido por Inteligência Artificial, detalhando o novo papel do desenvolvedor, fluxos de trabalho modernos, riscos, salvaguardas e ferramentas essenciais.
+
+*   💻 **Acesse o caderno de estudos aqui:** [Gemini Notebook - Vibe Coding](https://notebook.google.com/notebook/28a0f012-4642-499b-87e7-d7eef9649c46)
+
 
 ---
 
